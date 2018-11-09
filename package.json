@@ -102,7 +102,7 @@
     "@types/jest": "~23.3.9",
     "@types/lodash": "~4.14.118",
     "@types/nightmare": "~2.10.4",
-    "@types/node": "~10.12.3",
+    "@types/node": "~10.12.4",
     "rimraf": "~2.6.2",
     "concurrently": "~4.0.1",
     "tslint-loader": "~3.5.4",
